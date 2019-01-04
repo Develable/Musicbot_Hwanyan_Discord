@@ -72,4 +72,4 @@ ex) 내가 만약 C:\ffmpeg로 풀었다면, Path에 C:\ffmpeg\bin을 추가.
 
 BSD 3-Clause License
 
-사용시 꼭 본 레포지토리 링크와 원작자를 기재해야 합니다.
+사용시 꼭 원작자(Team. 화공)를 기재해야 합니다.
