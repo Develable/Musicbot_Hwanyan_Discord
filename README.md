@@ -22,7 +22,7 @@ https://rutapofficial.xyz/ - Team. 화공 공식 홈페이지
 
 https://invite.gg/rutapofficial - Team. 화공 지원서버
 
-kangs7721@naver.com - 담당자 화향 이메일
+dyyeom1@naver.com - 담당자 엔돔 이메일
 
 # 초대방법
 
