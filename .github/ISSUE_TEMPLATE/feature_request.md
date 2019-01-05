@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 기능 제안
+about: 추가 되었으면 하는 기능을 마음껏 알려주세요!
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**설명**
+간단하게 추가 되었으면 하는 기능을 설명해주세요.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**작동방식**
+이 명령어를 입력하면 이렇게 봇이 작동하면 좋겠다 하는 것을 알려주세요.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**이미지**
+로직(작동방식)에 대한 이미지가 있다면 첨부하여 주세요.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**기타**
+이 기능에 대해 더 하실 말씀을 적어주세요.
