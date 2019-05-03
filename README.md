@@ -12,23 +12,27 @@ Team. 화공
 
 그 중에서도 화냥봇이 두번째 프로젝트입니다.
 
-기획 - 화향
+기획 - [화향](https://hwahyang.space)
 
-개발자 - 엔돔
+개발자 - [엔돔](http://endom.kro.kr)
 
 # Contact
 
-https://rutapofficial.xyz/ - Team. 화공 공식 홈페이지
+[Team. 화공 공식 홈페이지](https://rutapofficial.xyz)
 
-https://invite.gg/rutapofficial - Team. 화공 지원서버
+[Team. 화공 지원서버](https://invite.gg/rutapbot)
 
-dyyeom1@naver.com - 담당자 엔돔 이메일
+[담당자 엔돔 이메일](dyyeom1@naver.com)
 
-# 초대방법
+[담당자 화향 이메일](mailto:hwahyang1223@gmail.com)
 
-화냥봇은 저희가 서비스 하는 봇이 아닌, 여러분이 직접 구동하셔서 쓸수 있도록 "소스만 배포하고 있습니다"
+# How to Invite
 
-# 구동방법
+화냥봇은 저희가 서비스 하는 봇이 아닌, 여러분이 직접 구동하셔서 쓸수 있도록 **소스만 배포하고 있습니다**
+
+# Self-Hosting
+
+## 안내
 
 곧 화냥봇의 2019년 버전이 출시됩니다!
 급하시다면 현재 버전으로 바로 설치하시고, 굳이 급하지 않으시면 여유롭게 기다리시는 걸 추천합니다.
@@ -36,7 +40,7 @@ youtube검색, 보안 강화 등이 이루어진 화냥봇 2019를 기대해주�
 
 - By. Endom
 
-- **개발자의 개인사정으로 인하여 3월중 출시 예정입니다.**
+- **개발자의 개인사정으로 인하여 3월중 출시 예정입니다....는 계속 미뤄지고 있습니다**
 
 ## 화냥봇 설치 - 기본 구축
 
