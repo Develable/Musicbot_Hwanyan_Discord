@@ -6,7 +6,7 @@
 
 # About Us
 
-Team. 화공
+Develable
 
 청소년들의 디스코드 채팅봇 개발 프로젝트
 
