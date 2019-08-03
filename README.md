@@ -84,4 +84,4 @@ ex) 내가 만약 C:\ffmpeg로 풀었다면, Path에 C:\ffmpeg\bin을 추가.
 
 # 라이선스 고지
 
-[`old` branch](https://github.com/develable/Musicbot_Hwanyan_Discord/blob/old/README.md)를 참고하세요
+[`old` branch](https://github.com/develable/Musicbot_Hwanyan_Discord/blob/old/LICENSE)를 참고하세요
