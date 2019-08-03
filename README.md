@@ -84,6 +84,4 @@ ex) 내가 만약 C:\ffmpeg로 풀었다면, Path에 C:\ffmpeg\bin을 추가.
 
 # 라이선스 고지
 
-MIT License
-
-사용시 라이선스와 저작권 고지를 기재해야 합니다.
+`old` branch를 참고하세요
