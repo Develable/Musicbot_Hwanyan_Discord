@@ -30,7 +30,7 @@ Develable
 
 [Develable 지원서버](https://invite.gg/Develable)
 
-[담당자 엔돔 이메일](mailto:dyyeom1@naver.com)
+[담당자 틸토 이메일](mailto:tilto0822@develable.xyz)
 
 [담당자 화향 이메일](mailto:hwahyang@develable.xyz)
 
