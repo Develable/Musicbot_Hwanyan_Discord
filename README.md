@@ -1,4 +1,12 @@
-# About this project!
+# About Us
+
+Develable
+
+Whatever you imagine, We develop.
+
+상상하는 모든 것을 개발합니다.
+
+# About Project
 
 "누구나 간단하게 운영할 수 있는 음악봇을 만들어 보자!"라는 취지에서 시작되었습니다.
 
