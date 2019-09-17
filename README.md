@@ -24,7 +24,7 @@ Develable
 
 [담당자 엔돔 이메일](mailto:dyyeom1@naver.com)
 
-[담당자 화향 이메일](mailto:hwahyang1223@gmail.com)
+[담당자 화향 이메일](mailto:hwahyang@develable.xyz)
 
 # How to Invite
 
