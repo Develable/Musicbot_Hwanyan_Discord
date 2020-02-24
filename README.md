@@ -1,3 +1,7 @@
+![GitHub](https://img.shields.io/github/license/develable/Musicbot_Hwanyan_Discord?style=for-the-badge) [![GitHub issues](https://img.shields.io/github/issues/develable/Musicbot_Hwanyan_Discord?style=for-the-badge)](https://github.com/develable/Musicbot_Hwanyan_Discord/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/develable/Musicbot_Hwanyan_Discord?style=for-the-badge)](https://github.com/develable/Musicbot_Hwanyan_Discord/pulls) 
+
+![NPM](https://img.shields.io/npm/l/hwanyang?style=for-the-badge) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/hwanyang?style=for-the-badge) ![npm bundle size](https://img.shields.io/bundlephobia/min/hwanyang?style=for-the-badge) ![npm](https://img.shields.io/npm/dm/hwanyang?style=for-the-badge)
+
 # About Us
 
 Develable
@@ -84,4 +88,4 @@ ex) 내가 만약 C:\ffmpeg로 풀었다면, Path에 C:\ffmpeg\bin을 추가.
 
 # 라이선스 고지
 
-[`old` branch](https://github.com/develable/Musicbot_Hwanyan_Discord/blob/old/LICENSE)를 참고하세요
+GPL-3.0
