@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/github/license/develable/Musicbot_Hwanyan_Discord?style=for-the-badge)](https://github.com/develable/Musicbot_Hwanyan_Discord) [![GitHub issues](https://img.shields.io/github/issues/develable/Musicbot_Hwanyan_Discord?style=for-the-badge)](https://github.com/develable/Musicbot_Hwanyan_Discord/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/develable/Musicbot_Hwanyan_Discord?style=for-the-badge)](https://github.com/develable/Musicbot_Hwanyan_Discord/pulls) 
 
-[![NPM](https://img.shields.io/npm/l/hwanyang?style=for-the-badge)](https://www.npmjs.com/package/hwanyang) [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/hwanyang?style=for-the-badge)](https://www.npmjs.com/package/hwanyang?activeTab=dependencies) [![npm bundle size](https://img.shields.io/bundlephobia/min/hwanyang?style=for-the-badge)](https://www.npmjs.com/package/hwanyang) [![npm](https://img.shields.io/npm/dm/hwanyang?style=for-the-badge)](https://www.npmjs.com/package/hwanyang)
+[![NPM](https://img.shields.io/npm/l/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan) [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan?activeTab=dependencies) [![npm bundle size](https://img.shields.io/bundlephobia/min/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan) [![npm](https://img.shields.io/npm/dm/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan)
 
 # About Us
 
@@ -26,7 +26,7 @@ Develable
 
 기획 - [화향](https://hwahyang.space)
 
-개발자 - [엔돔](http://endom.kro.kr)
+개발자 - [엔돔](http://tilto.kro.kr)
 
 # Contact
 
@@ -68,9 +68,9 @@ ex) 내가 만약 C:\ffmpeg로 풀었다면, Path에 C:\ffmpeg\bin을 추가.
 ### 화냥봇 설치 - 소스코드 다운로드
 
 프로젝트 폴더를 파일 탐색기로 연 상태에서, 파일탐색기의 텅 빈 하얀 부분을 Ctrl + Shift + 우클릭 합니다.
-여기에 PowerShell창 열기를 누른 후, `npm i hwanyang` 이라고 치면 많은 파일들이 설치됩니다.
+여기에 PowerShell창 열기를 누른 후, `npm i hwanyan` 이라고 치면 많은 파일들이 설치됩니다.
 잠시 기다린 후에, 설치가 완료되었다면 PowerShell을 끄셔도 좋습니다.
-추가된 `node_modules`라는 폴더로 들어가서, `hwanyang`폴더를 찾습니다.
+추가된 `node_modules`라는 폴더로 들어가서, `hwanyan`폴더를 찾습니다.
 이제부터 거기가 우리 화냥이의 소스코드가 있는 장소입니다.
 
 - 개발 중단으로 인하여 위의 방법이 유효하지 않을 수 있습니다. **그럴 경우, `branch`에서 `old`를 찾아서 다운받으세요**.
