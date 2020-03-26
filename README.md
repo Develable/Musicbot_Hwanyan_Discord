@@ -24,10 +24,6 @@ Develable
 
 그 중에서도 화냥봇이 두번째 프로젝트입니다.
 
-기획 - [화향](https://hwahyang.space)
-
-개발자 - [엔돔](http://tilto.kro.kr)
-
 # Contact
 
 [Develable 공식 홈페이지](https://develable.xyz)
@@ -82,7 +78,11 @@ ex) 내가 만약 C:\ffmpeg로 풀었다면, Path에 C:\ffmpeg\bin을 추가.
 
 # 저작권 고지
 
-화냥봇 소스에 대한 저작권은 Develable에서 소유합니다. 모든 권리를 보유합니다.
+Planning by. 화향 of Develable.
+
+Develop by. Tilto of Develable.
+
+© 2017-2020 Develable.
 
 # 라이선스 고지
 
