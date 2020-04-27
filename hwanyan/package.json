@@ -1,0 +1,55 @@
+{
+  "_from": "hwanyan",
+  "_id": "hwanyan@1.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-GEZMmXhtCsqsiFatIGsVf7JSkF59gYJVBuvp/KiRzzRKlUiIquyMp5QYsH/ejxoHHM3uy1wZCzpBv26HrEdvUw==",
+  "_location": "/hwanyan",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hwanyan",
+    "name": "hwanyan",
+    "escapedName": "hwanyan",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hwanyan/-/hwanyan-1.2.1.tgz",
+  "_shasum": "82f4781381aeeaae7d12abccbd30bf3a43fa420d",
+  "_spec": "hwanyan",
+  "_where": "G:\\github\\Musicbot_Hwanyan_Discord\\hwanyan",
+  "author": {
+    "name": "Tilto of Develable"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "discord.js": "^11.4.2",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "ffmpeg-downloader": "^1.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "js-ffmpeg": "^0.0.21",
+    "libsodium-wrappers": "^0.7.3",
+    "lzma-native": "^4.0.1",
+    "opusscript": "^0.0.6",
+    "rtsp-ffmpeg": "^0.0.12",
+    "uws": "^10.148.1",
+    "ytdl-core": "^0.21.1"
+  },
+  "deprecated": false,
+  "description": "please visit this link! : https://github.com/develable/Musicbot_Hwanyan_Discord",
+  "devDependencies": {},
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "hwanyan",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.1"
+}

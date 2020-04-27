@@ -1,0 +1,1 @@
+The Scoped system allows you to resolve and define module dependencies, similar to RequireJS. 

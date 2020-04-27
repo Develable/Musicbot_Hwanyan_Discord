@@ -69,6 +69,8 @@ ex) 내가 만약 C:\ffmpeg로 풀었다면, Path에 C:\ffmpeg\bin을 추가.
 추가된 `node_modules`라는 폴더로 들어가서, `hwanyan`폴더를 찾습니다.
 이제부터 거기가 우리 화냥이의 소스코드가 있는 장소입니다.
 
+(본 레포지토리의 `hwanyan`폴더를 다운받으셔도 됩니다)
+
 ## 화냥봇 구동
 
 아주 간단합니다. 어떤 에디터로든 `settings.json`을 열어줍니다. (Visual Studio Code를 권장합니다)
