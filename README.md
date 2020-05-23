@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/github/license/develable/Musicbot_Hwanyan_Discord?style=for-the-badge)](https://github.com/develable/Musicbot_Hwanyan_Discord) [![GitHub issues](https://img.shields.io/github/issues/develable/Musicbot_Hwanyan_Discord?style=for-the-badge)](https://github.com/develable/Musicbot_Hwanyan_Discord/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/develable/Musicbot_Hwanyan_Discord?style=for-the-badge)](https://github.com/develable/Musicbot_Hwanyan_Discord/pulls) 
 
-[![NPM](https://img.shields.io/npm/l/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan) [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan?activeTab=dependencies) [![npm bundle size](https://img.shields.io/bundlephobia/min/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan) [![npm](https://img.shields.io/npm/dm/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan)
+[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan?activeTab=dependencies) [![npm bundle size](https://img.shields.io/bundlephobia/min/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan) [![npm](https://img.shields.io/npm/dm/hwanyan?style=for-the-badge)](https://www.npmjs.com/package/hwanyan)
 
 # About Us
 
