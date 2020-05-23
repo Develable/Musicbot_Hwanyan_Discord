@@ -51,8 +51,8 @@ Develable
 ### 화냥봇 설치 - 기본 구축
 
 구축은 Windows 10 기준입니다.
-http://nodejs.org 에서 Node.js를 설치해줍니다.
-https://ffmpeg.zeranoe.com/builds/ 에서 ffmpeg의 빌드를 다운받아 C드라이브에 압축해제 해줍니다.
+[nodejs.org](http://nodejs.org) 에서 Node.js를 설치해줍니다.
+[ffmpeg.zeranoe.com](https://ffmpeg.zeranoe.com/builds/) 에서 ffmpeg의 빌드를 다운받아 C드라이브에 압축해제 해줍니다.
 Win + X를 누른 후, 시스템 -> 시스템 정보 -> 고급 시스템 설정 -> 환경 변수 순으로 들어가서
 Path에 압축을 푼 ffmpeg의 bin폴더를 추가합니다
 ex) 내가 만약 C:\ffmpeg로 풀었다면, Path에 C:\ffmpeg\bin을 추가.
@@ -88,4 +88,4 @@ Develop by. Tilto of Develable.
 
 # 라이선스 고지
 
-GPL-3.0
+[GPL v3.0](https://github.com/develable/Musicbot_Hwanyan_Discord/blob/master/README.md)
